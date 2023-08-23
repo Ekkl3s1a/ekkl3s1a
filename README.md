@@ -4,7 +4,7 @@
 <!--[![](https://img.shields.io/github/gist/stars/F13ND5?style=social)](https://github.com/F13ND5)-->
 
 ### About me
-I am a computer engineering student and I am passionate about working with development technologies.
+I'm a computer engineer and I'm passionate about working with development technologies.
 * AI
 * Machine Learning
 * Data Science

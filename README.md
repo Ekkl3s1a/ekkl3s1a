@@ -1,6 +1,6 @@
 ### Hi I'm Ekkl3s1a :grinning:
 [![](https://vistr.dev/badge?repo=ekkl3s1a&corners=square)](https://github.com/ekkl3s1a/vistr.dev)
-[![](https://img.shields.io/badge/-@ekkl3s1a-%23181717?style=flat-square&logo=github)](https://github.com/ekkl3s1a)
+[![](https://img.shields.io/badge/-@ekkl3s1a-%23181717?style=flat-square&logo=github)](https://github.com/Ekkl3s1a)
 <!--[![](https://img.shields.io/github/gist/stars/F13ND5?style=social)](https://github.com/F13ND5)-->
 
 [![Endpoint Badge](https://img.shields.io/badge/My_Portfolio-blue)](https://ekkl3s1a.github.io/portfolio/)
@@ -16,11 +16,11 @@ I'm a computer engineer and I'm passionate about working with development techno
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/ekkl3s1a?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/ekkl3s1a?tab=repositories&q=&type=&language=javascript)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/ekkl3s1a?tab=repositories&q=&type=&language=c)
-[![C#](https://img.shields.io/badge/-c%23%20-000?&logo=c-sharp)](https://github.com/ekkl3s1a?tab=repositories&q=&type=&language=c#)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/ekkl3s1a?tab=repositories&q=&type=&language=java)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Ekkl3s1a?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Ekkl3s1a?tab=repositories&q=&type=&language=javascript)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/Ekkl3s1a?tab=repositories&q=&type=&language=c)
+[![C#](https://img.shields.io/badge/-c%23%20-000?&logo=c-sharp)](https://github.com/Ekkl3s1a?tab=repositories&q=&type=&language=c#)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/Ekkl3s1a?tab=repositories&q=&type=&language=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
@@ -40,7 +40,7 @@ I'm a computer engineer and I'm passionate about working with development techno
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
-<img height="110px" src="https://github-readme-stats.vercel.app/api?username=ekkl3s1a&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /><img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekkl3s1a&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
+<img height="110px" src="https://github-readme-stats.vercel.app/api?username=Ekkl3s1a&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /><img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekkl3s1a&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
 
 <!--
 **F13ND5/F13ND5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

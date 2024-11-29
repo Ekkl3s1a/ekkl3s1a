@@ -1,6 +1,6 @@
 ### Hi I'm Ekkl3s1a :grinning:
 [![](https://vistr.dev/badge?repo=ekkl3s1a&corners=square)](https://github.com/ekkl3s1a/vistr.dev)
-[![](https://img.shields.io/badge/-@ekkl3s1a-%23181717?style=flat-square&logo=github)](https://github.com/ekkl3s1a)https://ekkl3s1a.github.io/portfolio/
+[![](https://img.shields.io/badge/-@ekkl3s1a-%23181717?style=flat-square&logo=github)](https://github.com/ekkl3s1a)
 <!--[![](https://img.shields.io/github/gist/stars/F13ND5?style=social)](https://github.com/F13ND5)-->
 
 ### About me

@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@ekkl3s1a-%23181717?style=flat-square&logo=github)](https://github.com/ekkl3s1a)
 <!--[![](https://img.shields.io/github/gist/stars/F13ND5?style=social)](https://github.com/F13ND5)-->
 
-![Endpoint Badge](https://img.shields.io/endpoint?url=https://ekkl3s1a.github.io/portfolio/)
+[![Endpoint Badge](https://img.shields.io/badge/My_Portfolio-blue)](https://ekkl3s1a.github.io/portfolio/)
 
 
 ### About me

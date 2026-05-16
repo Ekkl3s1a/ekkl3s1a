@@ -8,10 +8,10 @@
 
 ### About me
 I'm a computer engineer and I'm passionate about working with development technologies.
+* Frontend and Backend Web Development
 * AI
 * Machine Learning
 * Data Science
-* Frontend and Backend Web Development
 * Security
 
 ### Languages
